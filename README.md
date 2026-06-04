@@ -1,6 +1,8 @@
+<img width="2000" height="1414" alt="Certificado--Nuxt--+--Supabase" src="https://github.com/user-attachments/assets/436b72b5-7817-4433-855b-a71abb473dca" />
+
 # 🚀 MVP Blog - Nuxt 4 + Supabase
 
-Este é um projeto de estudo moderno desenvolvido como parte prática do **Curso Vue.js Expert** ([cursovuejs.com.br](https://cursovuejs.com.br)). Trata-se de um sistema de blog completo (MVP) com área pública de leitura e uma área administrativa (Dashboard) privada.
+Este é um projeto de estudo desenvolvido como parte prática do **Curso Vue.js Expert** ([cursovuejs.com.br](https://cursovuejs.com.br)). Trata-se de um sistema de blog completo (MVP) com área pública de leitura e uma área administrativa (Dashboard) privada.
 
 ---
 
