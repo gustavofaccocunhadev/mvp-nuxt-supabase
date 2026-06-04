@@ -38,5 +38,8 @@ export default defineNuxtConfig({
     name: 'MVP Nuxt + Supabase',
     description: 'Blog feito na aula do MVP Nuxt + Supabase',
 
+  },
+  image: {
+    domains :['https://elqphwuvugojxunsrdoh.supabase.co'],
   }
 })
